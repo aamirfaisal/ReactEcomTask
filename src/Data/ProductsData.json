@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/Assets/images/watch.jpg",
+    "name": "Hand Watch",
+    "price": 500,
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "image": "/Assets/images/man_coat.png",
+    "name": "Man Coat",
+    "price": 1000,
+    "quantity": 2
+  },
+  {
+    "id": 3,
+    "image": "/Assets/images/blue_joggers.png",
+    "name": "Sport Joggers",
+    "price": 1500,
+    "quantity": 2
+  }
+]
